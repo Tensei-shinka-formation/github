@@ -36,3 +36,7 @@ Module d’apprentissage dédié à la prise en main de GitHub : gestion de dép
 - Une branche par fonctionnalité
 - Utilisation des labels et issues
 - Code propre et documenté
+
+  # Contributeurs : 
+  - Johan
+
