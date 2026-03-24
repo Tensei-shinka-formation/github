@@ -39,4 +39,4 @@ Module d’apprentissage dédié à la prise en main de GitHub : gestion de dép
 
   # Contributeurs : 
   - Johan
-
+  - Rédouane
